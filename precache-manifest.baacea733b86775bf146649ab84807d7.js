@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f9cdcef17f1350bae8a8c48d02a233e7",
+    "revision": "11656337c05bc2d74593871738235e3f",
     "url": "/index.html"
   },
   {
-    "revision": "8e1ae5f18058b0ea97f1",
+    "revision": "8dcef8aaa07e10501777",
     "url": "/static/css/main.3b5451e5.chunk.css"
   },
   {
-    "revision": "b2de833a17a307d466be",
-    "url": "/static/js/2.ad540085.chunk.js"
+    "revision": "0bf3189dc1fb5b992fac",
+    "url": "/static/js/2.daabd9f2.chunk.js"
   },
   {
     "revision": "3453b8997016469371284a28c0e873e2",
-    "url": "/static/js/2.ad540085.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.daabd9f2.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "8e1ae5f18058b0ea97f1",
-    "url": "/static/js/main.bb51af78.chunk.js"
+    "revision": "8dcef8aaa07e10501777",
+    "url": "/static/js/main.198aaec6.chunk.js"
   },
   {
     "revision": "b4ba650b238755144e2a",
@@ -100,11 +100,11 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/mai-logo.089a9da1.svg"
   },
   {
-    "revision": "8d5fc3ff3e942e6fb75fb2e86f00da38",
-    "url": "/static/media/starling.8d5fc3ff.png"
+    "revision": "dd0c6b76ba8438d9321f7e0c6fbdb115",
+    "url": "/static/media/starling.dd0c6b76.png"
   },
   {
-    "revision": "d89815107efae6e0ceaeae986fbfd103",
-    "url": "/static/media/talita.d8981510.jpg"
+    "revision": "a741d915f9f51d91c5a7dd50af827ff4",
+    "url": "/static/media/talita.a741d915.jpg"
   }
 ]);
