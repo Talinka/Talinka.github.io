@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/static/css/main.488da4f8.chunk.css",
-    "main.js": "/static/js/main.f5b84327.chunk.js",
-    "main.js.map": "/static/js/main.f5b84327.chunk.js.map",
+    "main.js": "/static/js/main.247e86ae.chunk.js",
+    "main.js.map": "/static/js/main.247e86ae.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.e5fc83a6.js",
     "runtime-main.js.map": "/static/js/runtime-main.e5fc83a6.js.map",
     "static/js/2.237b552f.chunk.js": "/static/js/2.237b552f.chunk.js",
     "static/js/2.237b552f.chunk.js.map": "/static/js/2.237b552f.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.d10db2117b19f5a6627b81b399e41190.js": "/precache-manifest.d10db2117b19f5a6627b81b399e41190.js",
+    "precache-manifest.796dba097cae2089ae501ee45527fcb1.js": "/precache-manifest.796dba097cae2089ae501ee45527fcb1.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.488da4f8.chunk.css.map": "/static/css/main.488da4f8.chunk.css.map",
     "static/js/2.237b552f.chunk.js.LICENSE.txt": "/static/js/2.237b552f.chunk.js.LICENSE.txt",
     "static/media/App.scss": "/static/media/circle.d5c776bb.svg",
     "static/media/certificate.jpg": "/static/media/certificate.3280cf07.jpg",
-    "static/media/cv.pdf": "/static/media/cv.f499b5a5.pdf",
+    "static/media/cv.pdf": "/static/media/cv.edfd99f4.pdf",
     "static/media/download.svg": "/static/media/download.20b29adf.svg",
     "static/media/kvant-logo.svg": "/static/media/kvant-logo.95d14bab.svg",
     "static/media/logo-full.svg": "/static/media/logo-full.ef97659e.svg",
@@ -27,6 +27,6 @@
     "static/js/runtime-main.e5fc83a6.js",
     "static/js/2.237b552f.chunk.js",
     "static/css/main.488da4f8.chunk.css",
-    "static/js/main.f5b84327.chunk.js"
+    "static/js/main.247e86ae.chunk.js"
   ]
 }
